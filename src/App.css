@@ -1,0 +1,23 @@
+.container {
+    text-align: center;
+    background-image: url('C:\Users\ksank\my-app\image2.jpeg');
+    min-height: 200%;
+    background-position: center;
+    background-size: cover;
+    width: 1500px;
+    height: 700px;
+    padding-top: 220px;
+}
+h2,p,h4 {
+    font-family: Monospace;
+    font-size: 30px;
+}
+button{
+    color: #000000e3; 
+    background: transparent; 
+    border: 2px solid #00008b ;
+    border-radius: 6px; 
+    width: 90px;
+    height: 35px;
+}
+button:hover {      background-color: #ffa07a;      color: #00008b ; }
